@@ -12,3 +12,7 @@ main {
 li {
     margin: 2rem;
 }
+.navbar .nav-link,
+.navbar .navbar-brand {
+    font-weight: bold;
+}
