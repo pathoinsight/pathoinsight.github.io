@@ -9,10 +9,20 @@ body {
 main {
     margin: 3rem;
 }
+
+li.nav-item {
+    margin: 0.5rem;
+}
+
+li.list-group-item {
+    margin: 0.3rem;
+}
+
 li {
     margin: 2rem;
 }
-.navbar .nav-link,
-.navbar .navbar-brand {
-    font-weight: bold;
-}
+
+    .navbar .nav-link,
+    .navbar .navbar-brand {
+        font-weight: bold;
+    }
